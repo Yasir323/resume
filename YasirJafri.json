@@ -1,0 +1,176 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "skills": "",
+    "projects": ""
+  },
+  "basics": {
+    "name": "Yasir Jafri",
+    "email": "yasir.jafri007@gmail.com",
+    "location": {
+      "address": "New Delhi, India"
+    },
+    "phone": "+91-8802306605",
+    "website": "www.linkedin.com/in/yasir-jafri-8a9a3b105"
+  },
+  "education": [
+    {
+      "location": "New Delhi, India",
+      "area": "Electrical Engineering",
+      "endDate": "Dec, 2020",
+      "institution": "Jamia Millia Islamia",
+      "studyType": "M.Tech",
+      "gpa": "9.43",
+      "startDate": "Aug, 2018"
+    },
+    {
+      "institution": "Jamia Millia Islamia",
+      "location": "New Delhi, India",
+      "studyType": "B. Tech",
+      "area": "Electrical Engineering",
+      "gpa": "8.61",
+      "startDate": "Aug, 2013",
+      "endDate": "Jun, 2017"
+    }
+  ],
+  "work": [
+    {
+      "website": "",
+      "highlights": [
+        "Developed Admin Panel for Content Management System (CMS) using Django (Wagtail).",
+        "Contributed to differnet backend services by developing and debugging features as needed.",
+        ""
+      ],
+      "company": "Appreciate",
+      "position": "Software Engineer",
+      "location": "Remote",
+      "startDate": "Jul, 2024",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Designed and implemented robust microservices for comprehensive analysis of FASTag transaction data.",
+        "Implemented a real-time facial recognition system in vehicles using Computer Vision, capturing and analyzing driver images upon ignition activation to ensure vehicle security and identity verification.",
+        "Developed a service in Scala using Akka framework to consume GPS data from Kafka, apply a custom compression algorithm, and store the compressed data in a Redis cluster.",
+        "Developed a Python application to perform daily scraping and summarization of relevant tweets using Natural Language Processing (NLP) techniques.",
+        "Implemented a data aggregation pipeline, collecting trip-related data from multiple services and SQL databases, and efficiently storing it in Redis for seamless ingestion into the ELK (Elasticsearch, Logstash, Kibana) stack, facilitating comprehensive trip analysis and insights generation.",
+        "Heavily contributed to the backend web development, showcasing proficiency in FastAPI for crafting scalable RESTful APIs and adeptly debugging and maintaining legacy services built with Django and Flask."
+      ],
+      "company": "Gtropy (MapMyIndia)",
+      "position": "Software Development Engineer - 1",
+      "location": "Gurugram, Haryana, India",
+      "startDate": "Sep, 2021",
+      "endDate": "Jul, 2024"
+    },
+    {
+      "highlights": [
+        "Developed contents of Data Analytics, Computer Vision and Augmented Reality programs for working professionals.",
+        "Revamped Web Development program to include better end-to-end project on Social Media increasing client acquisition by more than 30%.",
+        "Worked in team of 3 members to review, update, and revise programs to attract more clients."
+      ],
+      "company": "iBotlab",
+      "position": "Research Engineer and Technical Faculty",
+      "location": "Remote",
+      "startDate": "Jan, 2021",
+      "endDate": "Jun, 2021"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Scala",
+        "Node.js (JavaScript)",
+        "Java",
+        "Rust",
+        "C"
+      ]
+    },
+    {
+      "keywords": [
+        "Django",
+        "FastAPI",
+        "Flask",
+        "Express.js",
+        "Akka",
+        "PySpark"
+      ],
+      "name": "Frameworks"
+    },
+    {
+      "keywords": [
+        "Javascript",
+        "React",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "ChakraUI"
+      ],
+      "name": "Front-end Technologies"
+    },
+    {
+      "keywords": [
+        "SQL (PostgreSQL, SQL Server)",
+        "MongoDB",
+        "Redis",
+        "ScyllaDB"
+      ],
+      "name": "Database Technologies"
+    },
+    {
+      "keywords": [
+        "Kafka",
+        "Redis",
+        "Elasticsearch ",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Git"
+      ],
+      "name": "Others"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Stock Price Predictor",
+      "keywords": [
+        "Python",
+        "Deep Learning",
+        "Recurrent Neural Networks"
+      ],
+      "description": "An app to predict stock price based on the historical trends using stacked LSTM"
+    },
+    {
+      "keywords": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "MongoDB",
+        "Express.js"
+      ],
+      "name": "Property Lisiting Website",
+      "description": "A full-stack project of a website to show a listing of properties using MERN stack."
+    }
+  ],
+  "awards": [
+    {
+      "awarder": "Jamia Millia Islamia",
+      "summary": "Topper of the batch in M. Tech",
+      "title": "Gold Medalist - M.Tech",
+      "date": "Jul, 2023"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
